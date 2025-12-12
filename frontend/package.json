@@ -1,0 +1,62 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^5.18.0",
+    "@mui/lab": "^5.0.0-alpha.177",
+    "@mui/material": "^5.18.0",
+    "@mui/x-data-grid": "^7.17.0",
+    "@mui/x-date-pickers": "^7.17.0",
+    "ajv": "8.12.0",
+    "apexcharts": "^4.6.0",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "dayjs": "1.11.19",
+    "ethers": "^5.7.2",
+    "jquery": "^3.7.1",
+    "qrcode.react": "^3.2.0",
+    "react": "^18.3.1",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18.3.1",
+    "react-geocode": "2.0.1",
+    "react-qr-scanner": "^1.0.0-alpha.11",
+    "react-router-dom": "^6.30.0",
+    "react-scripts": "5.0.1",
+    "react-to-print": "^2.15.1",
+    "recharts": "^2.15.0",
+    "styled-components": "^6.1.13",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^14.3.1",
+    "@testing-library/user-event": "^14.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
